@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
+ 
+  .dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  .dark-mode header {
+    background-color: #1e1e1e;
+  }
+  
+  .dark-mode .card {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    box-shadow: none;
+  }
+  
+  .dark-mode footer {
+    background-color: #1e1e1e;
+  }
+  
